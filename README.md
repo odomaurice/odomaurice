@@ -5,3 +5,5 @@
 -I have experienced working with clients independently and collaboratively in various projects.
 
 -FEEL FREE TO REACH OUT, I'M MOSTLY ACTIVE ON TWITTER AND LINKEDIN😉
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=odomaurice)](https://github.com/odomaurice/github-profile-trophy)
